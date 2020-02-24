@@ -1,0 +1,26 @@
+html,
+body {
+  background-color: black;
+}
+
+h1,
+h2,
+h3,
+p,
+pre {
+  color: white;
+  font-family: "Source Code Pro";
+}
+
+img {
+  border: 10px solid #ddd;
+}
+
+pre {
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
